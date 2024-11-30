@@ -37,11 +37,11 @@ The smart contracts have been deployed to the following networks:
 
 ### Open Campus Codex (EduChain)
 - **EduToken**:  
-  - **Contract Address**: `0x292436c237B751F41288F320C18fA567B8a6E179`  
-  - **Transaction ID**: `0x41989C276A584b35Aa115aBFf65ACb3385cD708a`
+  - **Contract Address**: `0xd16B472C1b3AB8bc40C1321D7b33dB857e823f01`  
+  - **Transaction hash**: `0x91b23d47047e6324d34ffedd50b803f9dc66f290a93066d71a74db437c84419e`
 - **QuizGame**:  
-  - **Contract Address**: `0x292436c237B751F41288F320C18fA567B8a6E179`  
-  - **Transaction ID**: `0xeb038C89Ec552eBefB2cA708d1EC6fFC6C89b2De`
+  - **Contract Address**: `0xb31BA5cDC07A2EaFAF77c95294fd4aE27D04E9CA`  
+  - **Transaction hash**: `0xfc4cd37254dcfd3cacaa1d62f016554f171f0a976f15d2350acdcf2c566a21dd`
 
 ## Website
 Visit the **CryptoQuest** website to interact with the platform:  
